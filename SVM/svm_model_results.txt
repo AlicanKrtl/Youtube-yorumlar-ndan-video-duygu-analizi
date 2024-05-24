@@ -1,0 +1,19 @@
+Best SVM model:
+SVC(kernel='linear')
+
+Evaluation Results:
+Accuracy: 0.7899543378995434
+Classification Report:
+              precision    recall  f1-score   support
+
+       Anger       0.67      0.95      0.78        82
+     Disgust       0.81      0.76      0.79        87
+        Fear       0.90      0.93      0.92        61
+         Joy       0.76      0.69      0.72        72
+     Sadness       0.88      0.88      0.88        72
+    Surprise       0.82      0.50      0.62        64
+
+    accuracy                           0.79       438
+   macro avg       0.81      0.79      0.78       438
+weighted avg       0.80      0.79      0.78       438
+

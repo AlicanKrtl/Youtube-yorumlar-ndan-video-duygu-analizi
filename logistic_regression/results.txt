@@ -1,0 +1,15 @@
+Best Test Accuracy: 0.6872146118721462
+Final Test Accuracy: 0.6872146118721462
+Classification Report:
+              precision    recall  f1-score   support
+
+       Anger       0.77      0.62      0.69        82
+     Disgust       0.62      0.67      0.64        87
+        Fear       0.80      0.87      0.83        61
+         Joy       0.64      0.72      0.68        72
+     Sadness       0.84      0.72      0.78        72
+    Surprise       0.51      0.55      0.53        64
+
+    accuracy                           0.69       438
+   macro avg       0.70      0.69      0.69       438
+weighted avg       0.70      0.69      0.69       438
